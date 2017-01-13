@@ -1,5 +1,5 @@
-<h1 align="center">Android App Shortcuts</h1>
-<h2 align="center">Shortcuts for Android on Pre Nougat 7.1!</h2>
+<h1 align="center">Android Deleted Contacts</h1>
+<h2 align="center">This application can restore contacts from all your deleted contacts.</h2>
 
 <span class="badge-paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LY7EX8WMWPWV6" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
