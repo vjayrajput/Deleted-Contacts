@@ -15,7 +15,7 @@ You deleted contacts are easily recover and display restore contacts in contact 
 You can restore contacts of your friends using deleted contacts app.
 You can restore contacts of your family using deleted contacts app.
 You can restore contacts of your business using deleted contacts app.
-This application is use for android platform.I have also implemented [Force Touch](https://github.com/michelelacorte/ForceTouch) and YOU CAN USE ON CUSTOM LAUNCHER WITH SHORTCUTS!!
+This application is use for android platform.
 
 ##DONATIONS
 
