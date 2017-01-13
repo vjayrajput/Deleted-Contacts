@@ -23,8 +23,6 @@ This application needs you! If you would like to support this application's, Of 
 
 **PayPal**
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
-
 * **[Donate $1]**: Thank's for creating this application
 
 * **[Donate $5]**: Thank's for creating this application, here's a coffee (or some beer) for you!
@@ -41,7 +39,9 @@ This application needs you! If you would like to support this application's, Of 
 
 * **[Donate $2799]**: Go buddy, buy Macbook Pro for yourself!
 
-If this application help you , Of course, you can also choose what you want to donate, all donations are awesome!!
+If you wnat to donate any other amount , click below "Donate" button
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
 
 
 ##Delete Contacts 
