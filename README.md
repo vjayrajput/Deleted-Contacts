@@ -39,13 +39,10 @@ This application needs you! If you would like to support this application's feel
 
 * **[Donate $2799]**: Go buddy, buy Macbook Pro for yourself!
 
-Of course, you can also choose what you want to donate, all donations are awesome!!
-
-
 ## Donation
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
+If this application help you , Of course, you can also choose what you want to donate, all donations are awesome!!
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8YE92K9QM7NA)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
 
 
 ##Delete Contacts 
