@@ -3,20 +3,19 @@
 
 <span class="badge-paypal"><a href="https://www.paypal.me/vjayrajput" title="Donate to this application using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2a8eb532d98842f6966bc164a896419a)](https://www.codacy.com/app/micky1995/AndroidShortcuts?utm_source=github.com&utm_medium=referral&utm_content=michelelacorte/AndroidShortcuts&utm_campaign=badger)
-[![Twitter](https://img.shields.io/badge/Twitter-@LacorteMichele-blue.svg?style=flat)](https://twitter.com/LacorteMichele)
+##WHAT IS DELETED CONTACTS?
 
-[![API](https://img.shields.io/badge/API-14%2B-yellow.svg?style=flat)](https://android-arsenal.com/api?level=14)
-
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
-
-
-
-##WHAT IS ANDROID SHORTCUTS?
-
-The shorctus have a features of Android 7.1 Nougat, and available only for the launcher that implement, in this library, you can implement in your launcher shorctus starting from API 14!
-Whit new communication all developers will only implement shortcuts layout (this library), then it's up to developer to implement their own shortcuts, like Google!!!
-I have also implemented [Force Touch](https://github.com/michelelacorte/ForceTouch) and YOU CAN USE ON CUSTOM LAUNCHER WITH SHORTCUTS!!
+This application can restore contacts from all your jdeleted contacts.
+You can see your device all contacts and deleted contacts list on click using this app.
+You can restore your deleted contacts using tap or click on deleted contacts and restore contacts.
+You can restore all deleted  contacts using menu button top right corner in app.
+You restore contacts using this app easily
+You restore contacts display in your device contact app
+You deleted contacts are easily recover and display restore contacts in contact app.
+You can restore contacts of your friends using deleted contacts app.
+You can restore contacts of your family using deleted contacts app.
+You can restore contacts of your business using deleted contacts app.
+This application is use for android platform.I have also implemented [Force Touch](https://github.com/michelelacorte/ForceTouch) and YOU CAN USE ON CUSTOM LAUNCHER WITH SHORTCUTS!!
 
 ##DONATIONS
 
