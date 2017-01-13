@@ -23,9 +23,9 @@ This application needs you! If you would like to support this application's feel
 
 **PayPal**
 
-* **[Donate $1]**: Thank's for creating this project
+* **[Donate $1]**: Thank's for creating this application
 
-* **[Donate $5]**: Thank's for creating this project, here's a coffee (or some beer) for you!
+* **[Donate $5]**: Thank's for creating this application, here's a coffee (or some beer) for you!
 
 * **[Donate $10]**: Wow, I am stunned. Let me take you to the movies!ù
 
@@ -40,15 +40,6 @@ This application needs you! If you would like to support this application's feel
 * **[Donate $2799]**: Go buddy, buy Macbook Pro for yourself!
 
 Of course, you can also choose what you want to donate, all donations are awesome!!
-
-<img align="left" src="https://s23.postimg.org/m2d28wraj/ic_launcher.png">
-#v1.1.0 Preview
-
-<h1 align="center"><img src="http://i.giphy.com/26gYBk8pQxudwwWQw.gif"/></h1>
-
-##v1.0.0 Preview
-
-<h1 align="center"><img src="http://i.giphy.com/l3vR814bxMIwQveiA.gif"/></h1>
 
 ##APP EXAMPLE 
 
