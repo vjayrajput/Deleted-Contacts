@@ -41,7 +41,7 @@ This application needs you! If you would like to support this application's feel
 
 Of course, you can also choose what you want to donate, all donations are awesome!!
 
-##APP EXAMPLE 
+##Delete Contacts 
 
 ####Deleted Contacts is on Google Play!!!
 
