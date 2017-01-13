@@ -1,4 +1,4 @@
-<h1 align="center">Android Deleted Contacts</h1>
+<h1 align="center">Deleted Contacts</h1>
 <h2 align="center">This application can restore contacts from all your deleted contacts.</h2>
 
 <span class="badge-paypal"><a href="https://www.paypal.me/vjayrajput" title="Donate to this application using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
@@ -52,9 +52,9 @@ Of course, you can also choose what you want to donate, all donations are awesom
 
 ##APP EXAMPLE 
 
-####Android Shortcuts is on Google Play!!!
+####Deleted Contacts is on Google Play!!!
 
-<a href="https://play.google.com/store/apps/details?id=it.michelelacorte.exampleandroidshortcuts">
+<a href="https://play.google.com/store/apps/details?id=vjayraj.deletedcontacts">
 <img alt="Get it on Google Play" src="https://s32.postimg.org/50h5qj4lx/google_play_badge.png" />
 </a>
 
