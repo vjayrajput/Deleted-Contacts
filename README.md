@@ -19,9 +19,11 @@ This application is use for android platform.
 
 ##DONATIONS
 
-This application needs you! If you would like to support this application's feel free to donate. Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
+This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
 **PayPal**
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
 
 * **[Donate $1]**: Thank's for creating this application
 
@@ -39,10 +41,7 @@ This application needs you! If you would like to support this application's feel
 
 * **[Donate $2799]**: Go buddy, buy Macbook Pro for yourself!
 
-## Donation
 If this application help you , Of course, you can also choose what you want to donate, all donations are awesome!!
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
 
 
 ##Delete Contacts 
