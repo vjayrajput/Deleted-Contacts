@@ -58,43 +58,6 @@ Of course, you can also choose what you want to donate, all donations are awesom
 <img alt="Get it on Google Play" src="https://s32.postimg.org/50h5qj4lx/google_play_badge.png" />
 </a>
 
-##USAGE
-
-
-Add this to `build.gradle`
-
-```groovy
-allprojects {
-    repositories {
-        jcenter()
-        maven { url "https://jitpack.io" }
-    }
-}
-```
-
-Than add this dependencies
-
-```groovy
-compile 'com.github.michelelacorte:AndroidShortcuts:1.1.0'
-```
-##DOCUMENTATION 
-
-- [App Shortcuts Locale](https://github.com/michelelacorte/AndroidShortcuts/blob/master/SHORTCUTSLOCALE.md)
-
-- [App Shortcuts Remote](https://github.com/michelelacorte/AndroidShortcuts/blob/master/SHORTCUTSREMOTE.md)
-
-
-Coming soon with [Force Touch](https://github.com/michelelacorte/ForceTouch) implementation
-
-##SYSTEM REQUIREMENT
-
-Android API 14+
-
-##STATUS
-
-![project maintained](https://img.shields.io/badge/Project-Maintained-green.svg)
-
-
 
 [Donate $5]: 		https://www.paypal.me/MicheleLacorte/5
 [Donate $10]:  		https://www.paypal.me/MicheleLacorte/10
