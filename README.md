@@ -23,6 +23,8 @@ This application needs you! If you would like to support this application's feel
 
 **PayPal**
 
+* **[Donate $1]**: Thank's for creating this project
+
 * **[Donate $5]**: Thank's for creating this project, here's a coffee (or some beer) for you!
 
 * **[Donate $10]**: Wow, I am stunned. Let me take you to the movies!ù
@@ -57,6 +59,7 @@ Of course, you can also choose what you want to donate, all donations are awesom
 </a>
 
 
+[Donate $1]: 		  https://www.paypal.me/vjayrajput/1
 [Donate $5]: 		  https://www.paypal.me/vjayrajput/5
 [Donate $10]:  		https://www.paypal.me/vjayrajput/10
 [Donate $15]:  		https://www.paypal.me/vjayrajput/15
