@@ -5,19 +5,7 @@
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
 
-##WHAT IS DELETED CONTACTS?
 
-This application can restore contacts from all your jdeleted contacts.
-You can see your device all contacts and deleted contacts list on click using this app.
-You can restore your deleted contacts using tap or click on deleted contacts and restore contacts.
-You can restore all deleted  contacts using menu button top right corner in app.
-You restore contacts using this app easily
-You restore contacts display in your device contact app
-You deleted contacts are easily recover and display restore contacts in contact app.
-You can restore contacts of your friends using deleted contacts app.
-You can restore contacts of your family using deleted contacts app.
-You can restore contacts of your business using deleted contacts app.
-This application is use for android platform.
 
 ##DONATIONS
 
@@ -44,6 +32,21 @@ This application needs you! If you would like to support this application's, Of 
 If you wnat to donate any other amount , click below "Donate" button
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
+
+
+##WHAT IS DELETED CONTACTS?
+
+This application can restore contacts from all your jdeleted contacts.
+You can see your device all contacts and deleted contacts list on click using this app.
+You can restore your deleted contacts using tap or click on deleted contacts and restore contacts.
+You can restore all deleted  contacts using menu button top right corner in app.
+You restore contacts using this app easily
+You restore contacts display in your device contact app
+You deleted contacts are easily recover and display restore contacts in contact app.
+You can restore contacts of your friends using deleted contacts app.
+You can restore contacts of your family using deleted contacts app.
+You can restore contacts of your business using deleted contacts app.
+This application is use for android platform.
 
 
 ##Delete Contacts 
