@@ -5,31 +5,6 @@
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput
 
-<div>
- 					<script src="//blockr.io/js_external/coinwidget/coin.js"></script>
- 					<script>
- 						CoinWidgetCom.go({
- 							wallet_address: '18ZYN9TLaFbWrjaX4jrA4JdKd9ayWJGPD7',
- 							currency: 'bitcoin',
- 							counter: 'hide',
- 							lbl_button: 'Donate Bitcoin',
- 							lbl_count: 'donations',
- 							lbl_amount: 'BTC',
- 							lbl_address: 'Use address below to donate. Thanks!',
- 							qrcode: true,
- 							alignment: 'bl',
- 							decimals: 8,
- 							size: "big",
- 							color: "dark",
- 							countdownFrom: "0",
- 							element: "#coinwidget-bitcoin-18ZYN9TLaFbWrjaX4jrA4JdKd9ayWJGPD7",
- 							onShow: function(){},
- 							onHide: function(){}
- 						});
- 					</script>
- 					<div id="coinwidget-bitcoin-18ZYN9TLaFbWrjaX4jrA4JdKd9ayWJGPD7"></div>
- 				</div>
-
 ##DONATIONS
  
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
