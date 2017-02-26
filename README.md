@@ -24,7 +24,7 @@ window.location.href = "bitcoin:17uctxtsWG3gpyAy6iJ8AVd5rdSjkJH2?label=In%20the%
 close();
 </script>
 
-<a href="http://Kristinita.ru/Donate-files/Bitcoin-Redirect" target="_blank"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></a>
+<a href="http://Kristinita.ru/Donate-files/Bitcoin-Redirect" ><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></a>
 
 
 **PayPal**
