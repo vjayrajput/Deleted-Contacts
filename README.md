@@ -13,6 +13,10 @@ This application needs you! If you would like to support this application's, Of 
 
 <a href="http://Kristinita.ru/Donate-files/Bitcoin-Redirect" target="_blank"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></a>
 
+<script>
+window.location.href = "bitcoin:17uctxtsWG3gpyAy6iJ8AVd5rdSjkJH2?label=In%20the%20treatment%20of%20Sasha's%20teeth&amount=0.0037";
+close();
+</script>
 
 **PayPal**
 
