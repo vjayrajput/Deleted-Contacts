@@ -7,11 +7,11 @@
 
 
 <a
-  href="https://blockchain.info/address/A_BITCOIN_ADDRESS"
-  data-btcaddress="A_BITCOIN_ADDRESS"
+  href="https://blockchain.info/address/1d26X23TH3EUfQizeqgN1MeztJW8vXCS5"
+  data-btcaddress="1d26X23TH3EUfQizeqgN1MeztJW8vXCS5"
 >
 <img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png">
-  Some text
+
 </a>
 
 ##DONATIONS
