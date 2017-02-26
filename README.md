@@ -7,11 +7,9 @@
 
 ##DONATIONS
  
- <a
-  href="https://blockchain.info/address/A_BITCOIN_ADDRESS"
-  data-btcaddress="A_BITCOIN_ADDRESS"
->
-  Some text
+<a href="http://localhost:8170/donate/12UjAGVyKwmH3dN7TmEvxGLf3iomNX8G43?amount=0.1">
+  donate 0.1 BTC <br>
+  12UjAGVyKwmH3dN7TmEvxGLf3iomNX8G43
 </a>
 
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
