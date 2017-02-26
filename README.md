@@ -10,6 +10,7 @@
   href="https://blockchain.info/address/A_BITCOIN_ADDRESS"
   data-btcaddress="A_BITCOIN_ADDRESS"
 >
+<img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png">
   Some text
 </a>
 
