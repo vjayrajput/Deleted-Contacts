@@ -11,14 +11,12 @@
 
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
+<a href="http://Kristinita.ru/Donate-files/Bitcoin-Redirect" target="_blank"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></a>
+
+
 **PayPal**
 
-<a href="http://Kristinita.ru/Donate-files/Bitcoin-Redirect"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></a>
 
-<script>
-window.location.href = "bitcoin:17uctxtsWG3gpyAy6iJ8AVd5rdSjkJH2?label=In%20the%20treatment%20of%20Sasha's%20teeth&amount=0.0037";
-history.back();
-</script>
 
 * **[Donate $1]**: Thank's for creating this application
 
