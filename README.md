@@ -13,9 +13,6 @@
 </a>
 
 <iframe style="position:fixed;bottom:0;" src="https://robinlinus.github.io/share-the-love/#msg=Your Social Media Fingerprint&url=https://robinlinus.github.io/socialmedia-leak&paypal=robin@capira.de&twitter=robin_linus&bitcoin=176s9TkKmAFdL5gP36u9VZym9zPVVEcFo9" height="50" width="100%" frameborder="0"></iframe>
-  </body>
-  
-  </html>
 
 
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
