@@ -63,6 +63,7 @@ This application is use for android platform.
   (document.getElementsByTagName("a"),"bitcoin:","btc-button","https://blockchain.info/q/getreceivedbyaddress/","Donate");
 </script>
 
+<a href="bitcoin:address"></a>
 
 [Donate $1]: 		  https://www.paypal.me/vjayrajput/1
 [Donate $5]: 		  https://www.paypal.me/vjayrajput/5
