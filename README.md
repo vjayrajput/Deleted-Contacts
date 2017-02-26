@@ -6,27 +6,7 @@
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
 
 ##DONATIONS
-
-
-   
-
-  
-    <p>
-      Even more stuff on your page and
-      <a href="bitcoin:ANOTHER_BITCOIN_ADDRESS?amount=0.01">
-        another donation link, this time with a suggested amount
-      </a>.
-    </p>
-
-    <script type="text/javascript" src="/path/to/js/jquery.js"></script>
-    <script type="text/javascript" src="/path/to/js/jquery.qrcode.js"></script>
-    <script type="text/javascript" src="/path/to/js/btcdonate.js"></script>
-    <script>
-      btcdonate();
-    </script>
-
-  
-  
+ 
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
 **PayPal**
