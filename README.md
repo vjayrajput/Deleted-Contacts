@@ -6,6 +6,8 @@
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput
 
 ##DONATIONS
+
+<a href="http://Kristinita.ru/Donate-files/Bitcoin-Redirect"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></a>
  
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
