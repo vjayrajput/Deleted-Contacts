@@ -6,6 +6,12 @@
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput)
 
 
+<a
+  href="https://blockchain.info/address/A_BITCOIN_ADDRESS"
+  data-btcaddress="A_BITCOIN_ADDRESS"
+>
+  Some text
+</a>
 
 ##DONATIONS
 
