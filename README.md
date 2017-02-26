@@ -7,31 +7,6 @@
 
 ##DONATIONS
 
-<a href="http://Kristinita.ru/Donate-files/Bitcoin-Redirect"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></a>
- 
- 
- <script src="//blockr.io/js_external/coinwidget/coin.js"></script>
-		<script>
-			CoinWidgetCom.go({
-				wallet_address: '1d26X23TH3EUfQizeqgN1MeztJW8vXCS5',
-				currency: 'bitcoin',
-				counter: 'count',
-				lbl_button: 'Donate',
-				lbl_count: 'donations',
-				lbl_amount: 'BTC',
-				lbl_address: 'Use address below to donate. Thanks!',
-				qrcode: true,
-				alignment: 'bl',
-				decimals: 8,
-				size: "small",
-				color: "dark",
-				countdownFrom: "0",
-				element: "#coinwidget-bitcoin-1d26X23TH3EUfQizeqgN1MeztJW8vXCS5",
-				onShow: function(){},
-				onHide: function(){}
-			});
-		</script>
-		<div id="coinwidget-bitcoin-1d26X23TH3EUfQizeqgN1MeztJW8vXCS5"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></div>
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
 **PayPal**
