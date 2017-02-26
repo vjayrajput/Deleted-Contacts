@@ -31,7 +31,7 @@
 				onHide: function(){}
 			});
 		</script>
-		<div id="coinwidget-bitcoin-1d26X23TH3EUfQizeqgN1MeztJW8vXCS5"></div>
+		<div id="coinwidget-bitcoin-1d26X23TH3EUfQizeqgN1MeztJW8vXCS5"><img src="http://Kristinita.ru/Donate-files/Bitcoin-Donate-button.png"></div>
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
 **PayPal**
