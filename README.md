@@ -7,6 +7,13 @@
 
 ##DONATIONS
  
+ <a
+  href="https://blockchain.info/address/A_BITCOIN_ADDRESS"
+  data-btcaddress="A_BITCOIN_ADDRESS"
+>
+  Some text
+</a>
+
 This application needs you! If you would like to support this application's, Of course, you can also choose what you want to donate, all donations are awesome!! Your donation is highly appreciated (and I love food, coffee and beer). Thank you!
 
 **PayPal**
