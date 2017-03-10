@@ -3,7 +3,7 @@
 
 <span class="badge-paypal"><a href="https://www.paypal.me/vjayrajput" title="Donate to this application using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vjayrajput
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)
 
 ##DONATIONS
 
