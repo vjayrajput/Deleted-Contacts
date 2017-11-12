@@ -64,3 +64,9 @@ This application is use for android platform.
 [Donate $50]: 		https://www.paypal.me/vjayrajput/50
 [Donate $100]: 		https://www.paypal.me/vjayrajput/100
 [Donate $2799]: 	https://www.paypal.me/vjayrajput/2799
+
+
+
+# Donation Button
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=59LH5AHNQ8XZW)
